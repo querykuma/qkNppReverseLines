@@ -227,5 +227,5 @@ void reverseDocument()
 //
 void aboutDlg()
 {
-	::MessageBox(NULL, TEXT("Author: Query Kuma\nVersion: 1.0.0.0"), TEXT("About Reverse Lines"), MB_OK);
+	::MessageBox(NULL, TEXT("Author: Query Kuma\nVersion: 1.1.0.0"), TEXT("About Reverse Lines"), MB_OK);
 }

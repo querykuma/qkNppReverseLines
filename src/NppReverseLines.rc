@@ -2,7 +2,7 @@
 //
 #include "resource.h"
 /////////////////////////////////////////////////////////////////////////////
-// 日本語 (日本) resources
+// Japanese (Japan) resources
 
 #if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_JPN)
 LANGUAGE LANG_JAPANESE, SUBLANG_DEFAULT
@@ -32,12 +32,12 @@ BEGIN
         BEGIN
             VALUE "CompanyName", "Query Kuma"
             VALUE "FileDescription", "Reverse Lines plugin for Notepad++"
-            VALUE "FileVersion", "1.0.0.0"
+            VALUE "FileVersion", "1.1.0.0"
             VALUE "InternalName", "qkNppReverseLines.dll"
             VALUE "LegalCopyright", "Copyright (C) 2019 Query Kuma"
             VALUE "OriginalFilename", "qkNppReverseLines.dll"
             VALUE "ProductName", "qkNppReverseLines"
-            VALUE "ProductVersion", "1.0.0.0"
+            VALUE "ProductVersion", "1.1.0.0"
         END
     END
     BLOCK "VarFileInfo"
@@ -71,7 +71,7 @@ END
 
 #endif    // APSTUDIO_INVOKED
 
-#endif    // 日本語 (日本) resources
+#endif    // Japanese (Japan) resources
 /////////////////////////////////////////////////////////////////////////////
 
 
